@@ -23,7 +23,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: render readme
-        users: our action
+        uses: our action
       - name: commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.7.2
         with:
