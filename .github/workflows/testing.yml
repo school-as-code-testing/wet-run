@@ -11,10 +11,12 @@ jobs:
   #     - run: npm install
   #     - run: node ./actions/setup-repo.js user repo
   dump: # https://stackoverflow.com/a/62805013
-    run: echo "$GITHUB_CONTEXT"
-    shell: bash
-    env:
-      GITHUB_CONTEXT: ${{ toJson(github) }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "$GITHUB_CONTEXT"
+        shell: bash
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
   render-readme:
     runs-on: ubuntu-latest
     steps:
