@@ -11,7 +11,7 @@ jobs:
 
       - run: npm install
 
-      - run: "npm run sac:readme -- repo=${{ github.event.repository.name }} u=${{ github.event.repository.owner }}"
+      - run: "npm run sac:readme -- repo=${{ github.event.repository.name }} u=${{ github.repository_owner }}"
 
       - name: commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.7.2
