@@ -1,11 +1,11 @@
-# Wet Run
+# Study Repo
 
-> - [Issues](https://github.com/school-as-code-testing/wet-run/issues):
->   [`help-wanted`](https://github.com/school-as-code-testing/wet-run/issues?q=is%3Aopen+label%3Ahelp-wanted),
->   [`question`](https://github.com/school-as-code-testing/wet-run/issues?q=is%3Aopen+label%3Aquestion)
-> - [Pull Requests](https://github.com/school-as-code-testing/wet-run/pulls)
-> - [Discussions](https://github.com/school-as-code-testing/wet-run/discussions/)
-> - [Study Board](https://github.com/school-as-code-testing/wet-run/projects/1)
+> - [Issues](https://github.com///issues):
+>   [`help-wanted`](https://github.com///issues?q=is%3Aopen+label%3Ahelp-wanted),
+>   [`question`](https://github.com///issues?q=is%3Aopen+label%3Aquestion)
+> - [Pull Requests](https://github.com///pulls)
+> - [Discussions](https://github.com///discussions/)
+> - [Study Board](https://github.com///projects/1)
 >
 > <details>
 > <summary>Tech Support</summary>
@@ -24,8 +24,8 @@ Cloning, installing, and running quality checks.
 <summary>expand/collapse</summary>
 <br>
 
-1. `git clone git@github.com:school-as-code-testing/wet-run.git`
-2. `cd wet-run`
+1. `git clone git@github.com:/.git`
+2. `cd `
 3. `npm install`
 
 ## Code Quality Checks
@@ -64,74 +64,74 @@ locally.
 
 learn some javascript
 
-### [Workflows](https://github.com/HackYourFutureBelgium/workflows/.study)
+### [Workflows](https://github.com/HackYourFutureBelgium/workflows/tree/master/.study)
 
 - 3 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Aworkflows+label%3Avocabulary)
+  [vocabulary](https://github.com///projects/1?card_filter_query=milestone%3Aworkflows+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Aworkflows+label%3Asnippet)
+  [snippets](https://github.com///projects/1?card_filter_query=milestone%3Aworkflows+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Aworkflows+label%3Adeliverables)
+  [deliverables](https://github.com///projects/1?card_filter_query=milestone%3Aworkflows+label%3Adeliverables)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Aworkflows+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=milestone%3Aworkflows+label%3Acheck-in)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Aworkflows+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=milestone%3Aworkflows+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Welcome to JS](https://github.com/HackYourFutureBelgium/welcome-to-js/.study)
+### [Welcome to JS](https://github.com/HackYourFutureBelgium/welcome-to-js/tree/master/.study)
 
 - 3 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Avocabulary)
+  [vocabulary](https://github.com///projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Asnippet)
+  [snippets](https://github.com///projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Adeliverables)
+  [deliverables](https://github.com///projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Adeliverables)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Awelcome-to-js+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=milestone%3Awelcome-to-js+label%3Acheck-in)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Awelcome-to-js+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=milestone%3Awelcome-to-js+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Debugging](https://github.com/HackYourFutureBelgium/debugging/.study)
+### [Debugging](https://github.com/HackYourFutureBelgium/debugging/tree/master/.study)
 
 - 5 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Adebugging+label%3Avocabulary)
+  [vocabulary](https://github.com///projects/1?card_filter_query=milestone%3Adebugging+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Adebugging+label%3Asnippet)
+  [snippets](https://github.com///projects/1?card_filter_query=milestone%3Adebugging+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Adebugging+label%3Adeliverables)
+  [deliverables](https://github.com///projects/1?card_filter_query=milestone%3Adebugging+label%3Adeliverables)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Adebugging+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=milestone%3Adebugging+label%3Acheck-in)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Adebugging+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=milestone%3Adebugging+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/.study)
+### [Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/tree/master/.study)
 
 - 3 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Avocabulary)
+  [vocabulary](https://github.com///projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Asnippet)
+  [snippets](https://github.com///projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Adeliverables)
+  [deliverables](https://github.com///projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Adeliverables)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Abehavior,-strategy,-implementation+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=milestone%3Abehavior,-strategy,-implementation+label%3Acheck-in)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Abehavior,-strategy,-implementation+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=milestone%3Abehavior,-strategy,-implementation+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Create a Material](https://www.youtube.com/watch?v=dQw4w9WgXcQ/.study)
+### [Create a Material](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 1 chapter |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Avocabulary)
+  [vocabulary](https://github.com///projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Asnippet)
+  [snippets](https://github.com///projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Adeliverables)
+  [deliverables](https://github.com///projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Adeliverables)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Acreate-a-material+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=milestone%3Acreate-a-material+label%3Acheck-in)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Acreate-a-material+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=milestone%3Acreate-a-material+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
 ---
@@ -156,15 +156,15 @@ learn some javascript
 
 <h3 id="lpmi-13">Adam</h3>
 
-- [questions](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Aquestion)
+- [questions](https://github.com///issues/?q=author%3Alpmi-13+label%3Aquestion)
   |
-  [help-wanted](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Ahelp-wanted)
+  [help-wanted](https://github.com///issues/?q=author%3Alpmi-13+label%3Ahelp-wanted)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=author%3Alpmi-13+label%3Acheck-in)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=autho%3AAdam+label%3Adeliverable)
+  [deliverables](https://github.com///projects/1?card_filter_query=autho%3AAdam+label%3Adeliverable)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=author%3Alpmi-13+label%3Aretrospective)
   | [lpmi-13](https://github.com/lpmi-13)
 
 <details>
@@ -181,15 +181,15 @@ learn some javascript
 
 <h3 id="colevandersWands"><a href="https://colevandersWands.github.io">Evan</a></h3>
 
-- [questions](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Aquestion)
+- [questions](https://github.com///issues/?q=author%3AcolevandersWands+label%3Aquestion)
   |
-  [help-wanted](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Ahelp-wanted)
+  [help-wanted](https://github.com///issues/?q=author%3AcolevandersWands+label%3Ahelp-wanted)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Acheck-in)
+  [check-ins](https://github.com///issues/?q=author%3AcolevandersWands+label%3Acheck-in)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=autho%3AEvan+label%3Adeliverable)
+  [deliverables](https://github.com///projects/1?card_filter_query=autho%3AEvan+label%3Adeliverable)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Aretrospective)
+  [retrospectives](https://github.com///issues/?q=author%3AcolevandersWands+label%3Aretrospective)
   | [colevandersWands](https://github.com/colevandersWands)
 
 <details>
@@ -210,11 +210,9 @@ learn some javascript
 
 <h3 id="lpmi-13"><a href="https://adamleskis.com/">Adam</a></h3>
 
-- [assigned](https://github.com/school-as-code-testing/wet-run/issues/?q=assigned%3Alpmi-13)
-  |
-  [commented](https://github.com/school-as-code-testing/wet-run/issues/?q=commented%3Alpmi-13)
-  |
-  [author](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13)
+- [assigned](https://github.com///issues/?q=assigned%3Alpmi-13) |
+  [commented](https://github.com///issues/?q=commented%3Alpmi-13) |
+  [author](https://github.com///issues/?q=author%3Alpmi-13)
 
 <details>
 <summary>more about Adam</summary>
@@ -226,11 +224,9 @@ learn some javascript
 
 <h3 id="colevandersWands">Evan</h3>
 
-- [assigned](https://github.com/school-as-code-testing/wet-run/issues/?q=assigned%3AcolevandersWands)
-  |
-  [commented](https://github.com/school-as-code-testing/wet-run/issues/?q=commented%3AcolevandersWands)
-  |
-  [author](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands)
+- [assigned](https://github.com///issues/?q=assigned%3AcolevandersWands) |
+  [commented](https://github.com///issues/?q=commented%3AcolevandersWands) |
+  [author](https://github.com///issues/?q=author%3AcolevandersWands)
 
 <details>
 <summary>more about Evan</summary>
@@ -246,11 +242,9 @@ learn some javascript
 
 <h3 id="">Adam</h3>
 
-- [assigned](https://github.com/school-as-code-testing/wet-run/issues/?q=assigned%3A)
-  |
-  [commented](https://github.com/school-as-code-testing/wet-run/issues/?q=commented%3A)
-  |
-  [author](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3A)
+- [assigned](https://github.com///issues/?q=assigned%3A) |
+  [commented](https://github.com///issues/?q=commented%3A) |
+  [author](https://github.com///issues/?q=author%3A)
 
 <details>
 <summary>more about Adam</summary>
