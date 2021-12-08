@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/school-as-code-testing/wet-run#readme",
   "dependencies": {
-    "school-as-code-package": "^0.0.3"
+    "school-as-code-package": "^0.0.5"
   }
 }
