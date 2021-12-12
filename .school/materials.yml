@@ -1,12 +1,5 @@
 description: learn some javascript
 board: 1
-suggestedStudy:
-  - name: rick
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-    description: roll
-  - name: rick
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  - url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 path:
   - name: Workflows
     chapters: 3
